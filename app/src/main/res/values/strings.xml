@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPander</string>
+    <string name="hello_world">我是豆子的萌宠孙志江!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
